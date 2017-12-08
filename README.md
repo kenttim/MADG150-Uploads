@@ -1,6 +1,6 @@
 # MADG150-Uploads
 
-### This is in chronological order
+#### This is in chronological order not order uploaded
 
 1. File 1: 3rd project: Was very inspired by bubble gum for this one
 1. File 2: 4th project: Could not get my bounce code working right for this so ya
